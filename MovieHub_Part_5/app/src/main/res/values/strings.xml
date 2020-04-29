@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieHub</string>
+    <string name="simple_text">Outer RecyclerView:- It will scroll vertically and would have text+media files. If it has media files inner recycler view will display the content.
+Inner RecyclerView:- It will scroll horizontal and would have only media files(images/videos)etc. It will display the media elements.It is using 2 nested recycler view.
+
+    </string>
+</resources>
