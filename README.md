@@ -26,12 +26,13 @@ Hello Everyone, Today I have create Android movies stream App. Watch thousands o
 
 # Screenshots:-->
 -----------------
+<img src="https://s6.gifyu.com/images/MovieHub_01.jpg" width="500" height="900" />
 
-[![MovieHub_01.jpg](https://s6.gifyu.com/images/MovieHub_01.jpg)](https://gifyu.com/image/lyfW)
+<img src="https://s6.gifyu.com/images/MovieHub_0227e19c6a5cce901a.jpg" width="500" height="900" />
 
-[![MovieHub_0227e19c6a5cce901a.jpg](https://s6.gifyu.com/images/MovieHub_0227e19c6a5cce901a.jpg)](https://gifyu.com/image/lyYe)
+<img src="https://s6.gifyu.com/images/MovieHub_03.jpg" width="500" height="900" />
 
-[![MovieHub_03.jpg](https://s6.gifyu.com/images/MovieHub_03.jpg)](https://gifyu.com/image/lyfr)
+
 
 
 # Follw Me:-
