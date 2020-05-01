@@ -21,7 +21,7 @@ Hello Everyone, Today I have create Android movies stream App. Watch thousands o
 # MovieHub_DEMO:-->
 ------------------- 
 
-[![MovieHub.gif](https://s6.gifyu.com/images/MovieHub.gif)](https://gifyu.com/image/lyYB)
+![Alt Text](https://s6.gifyu.com/images/MovieHub.gif)
 
 
 # Screenshots:-->
