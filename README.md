@@ -21,7 +21,7 @@ Hello Everyone, Today I have create Android movies stream App. Watch thousands o
 # MovieHub_DEMO:-->
 ------------------- 
 
-![Alt Text](https://s6.gifyu.com/images/MovieHub_DEMO.gif)
+[![MovieHub.gif](https://s6.gifyu.com/images/MovieHub.gif)](https://gifyu.com/image/lyYB)
 
 
 # Screenshots:-->
@@ -29,7 +29,7 @@ Hello Everyone, Today I have create Android movies stream App. Watch thousands o
 
 [![MovieHub_01.jpg](https://s6.gifyu.com/images/MovieHub_01.jpg)](https://gifyu.com/image/lyfW)
 
-[![MovieHub_02.jpg](https://s6.gifyu.com/images/MovieHub_02.jpg)](https://gifyu.com/image/lyfV)
+[![MovieHub_0227e19c6a5cce901a.jpg](https://s6.gifyu.com/images/MovieHub_0227e19c6a5cce901a.jpg)](https://gifyu.com/image/lyYe)
 
 [![MovieHub_03.jpg](https://s6.gifyu.com/images/MovieHub_03.jpg)](https://gifyu.com/image/lyfr)
 
