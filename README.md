@@ -21,22 +21,24 @@ Hello Everyone, Today I have create Android movies stream App. Watch thousands o
 # MovieHub_DEMO:-->
 ------------------- 
 
-[![MovieHub_DEMO.gif](https://s6.gifyu.com/images/MovieHub_DEMO.gif)](https://gifyu.com/image/lyVR)
+![Alt Text](https://s6.gifyu.com/images/MovieHub_DEMO.gif)
+
 
 # Screenshots:-->
 -----------------
 
-[![1a4fdef0d6454a639.jpg](https://s6.gifyu.com/images/1a4fdef0d6454a639.jpg)](https://gifyu.com/image/lyZ3)
+[![MovieHub_01.jpg](https://s6.gifyu.com/images/MovieHub_01.jpg)](https://gifyu.com/image/lyfW)
 
-[![2420f96eca98aa7bd.jpg](https://s6.gifyu.com/images/2420f96eca98aa7bd.jpg)](https://gifyu.com/image/lyZl)
+[![MovieHub_02.jpg](https://s6.gifyu.com/images/MovieHub_02.jpg)](https://gifyu.com/image/lyfV)
 
-[![304ba78368c923546.jpg](https://s6.gifyu.com/images/304ba78368c923546.jpg)](https://gifyu.com/image/lyZc)
+[![MovieHub_03.jpg](https://s6.gifyu.com/images/MovieHub_03.jpg)](https://gifyu.com/image/lyfr)
+
 
 # Follw Me:-
 
 | PROFILE | LINK |
 | ------ | ------ |
-| Google Play | https://play.google.com/store/apps/developer?id=Dewaara+Inc. |
+| Google Play | https://play.google.com/store/apps/details?id=com.dewaara.gizaquiz |
 | GitHub | https://github.com/dewaara |
 | Follow Linkedin | https://www.linkedin.com/in/md-halim-a28812183 |
 | Website | http://mdhalim.simplesite.com/ |
