@@ -43,7 +43,7 @@ https://github.com/dewaara/MovieHubApp/blob/master/MovieHub.apk
 
 # MovieHub_DEMO:-
 --------------- 
-![Alt Text](https://imgflip.com/gif/43aamg)
+[![MovieHub2020.gif](https://s7.gifyu.com/images/MovieHub2020.gif)](https://gifyu.com/image/ntfT)
 
 # Screenshots:-
 -------------
