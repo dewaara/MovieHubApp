@@ -1,5 +1,5 @@
 #                       *** WELCOME ***
-----------------------------------------
+-----------------------------------------
 
 
 
@@ -43,19 +43,19 @@ https://github.com/dewaara/MovieHubApp/blob/master/MovieHub.apk
 
 # MovieHub_DEMO:-
 --------------- 
-https://github.com/dewaara/MovieHubApp/blob/master/MovieHub_Part_7/MovieHub_Demo_Part_07.gif
+![Alt Text](https://imgflip.com/gif/43aamg)
 
 # Screenshots:-
 -------------
-<img src="https://s6.gifyu.com/images/MovieHub_01.jpg" width="500" height="900" />
+<img src="https://s6.gifyu.com/images/MovieHub_01.jpg" width="300" height="500" />
 
-<img src="https://s6.gifyu.com/images/MovieHub_0227e19c6a5cce901a.jpg" width="500" height="900" />
+<img src="https://s6.gifyu.com/images/MovieHub_0227e19c6a5cce901a.jpg" width="300" height="500" />
 
-<img src="https://s6.gifyu.com/images/MovieHub_03.jpg" width="500" height="900" />
+<img src="https://s6.gifyu.com/images/MovieHub_03.jpg" width="300" height="500" />
 
 # Requirements:-
 --------------
--> Java 8\
+-> Java 8.1\
 -> Latest version of Android Studio SDK and Android Build Tools.
 
 # Follw Me:-
