@@ -43,7 +43,7 @@ https://github.com/dewaara/MovieHubApp/blob/master/MovieHub.apk
 
 # MovieHub_DEMO:-
 --------------- 
-[![MovieHub2020.gif](https://s7.gifyu.com/images/MovieHub2020.gif)
+[![MovieHub2020.gif](https://s7.gifyu.com/images/MovieHub2020.gif)]
 
 # Screenshots:-
 -------------
@@ -74,7 +74,7 @@ https://github.com/dewaara/MovieHubApp/blob/master/MovieHub.apk
 <img src="https://firebasestorage.googleapis.com/v0/b/seven-29b38.appspot.com/o/Quiz%202019%2FPicsArt_01-23-12.41.47.png?alt=media&token=83b3dd63-bd20-4a2a-babb-8e3ff674af11" width="100" height="70" />
 MIT License
 
-Copyright (c) 2019 Developer Md.Halim Powered by Dewaara Inc.
+Copyright (c) 2020 Developer Md.Halim Powered by Dewaara Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
